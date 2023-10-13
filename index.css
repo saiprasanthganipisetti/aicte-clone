@@ -25,3 +25,17 @@
     transform: translate(-60%, -0%);
     align-items: center;
 }
+
+@media screen and (max-width: 768px) {
+    .mainscam {
+        top: 10%;
+        width: 90%; /* Adjust the width for smaller screens */
+        left: 50%;
+        transform: translate(-50%, -0%);
+    }
+
+    .verified {
+        height: 150px; /* Adjust the size for smaller screens */
+        width: 150px;
+    }
+}
