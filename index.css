@@ -1,0 +1,27 @@
+.enjoy{
+    width: 100% ;
+}
+
+.verified{
+    height: 200px;
+    width: 200px;
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+}
+
+.mainscam {
+    /* padding: 20px; */
+    margin-top: 50px;
+    width: 775px; /* Set the width of your div */
+    height: 450px; /* Set the height of your div */
+    background-color: #337ab7;
+    position: absolute;
+    text-align: center;
+    padding: 20px;
+    left: 55%;
+    top: 50%;
+    transform: translate(-60%, -0%);
+    align-items: center;
+}
